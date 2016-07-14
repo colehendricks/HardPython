@@ -1,0 +1,5 @@
+print "Hello world"
+print "what's up chicken butt"
+print "how now brown cow"
+print "ni hao chairman mao"
+print "Yay! printing!"

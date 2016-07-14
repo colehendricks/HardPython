@@ -1,0 +1,21 @@
+nouny_verby
+
+overview
+
+commands
+
+create(thing)
+#creates an item to be placed in the database
+thing = raw_input(">")
+
+while thing is undefined ask
+
+"things is a (autocomplete)"
+
+e.g. [person, event, plan, object, bug]
+
+#To Do
+	find or create nested taxonomic list of all english words
+	
+	
+	earwig - bug - alive - physical_object - noun

@@ -1,0 +1,101 @@
+print
+#
+%
+<=
+>=
+=
+while
+TRUE
+raw_input()
+%r
+from
+import
+argv
+"""
+\
+open()
+.read()
+.truncate()
+.write()
+exists
+len()
+def
+.seek()
+
+ANSWERS****
+
+ex 1
+
+print - prints a string surrounded by quotes
+
+ex 2 
+ 
+ # - comments out code
+ 
+ex 3
+
+% presents a sting variable that can later be filled
+<= less than or equal to
+>= greater than or equal to 
+(the equality is always before the comparison)
+= declares the value of a variable
+
+ex 4
+
+while - not sure, assume is means that while some condition remains true continue with operation
+TRUE - checks for a boolean positive 
+
+ex5(ish)
+
+raw_input() - requires the user to provide input for an argument on a function
+
+ex 7
+
+%r - debugging variable readout -
+
+ex13
+
+from - prefaces the library to pull functions from
+
+import - states the module to import out of the library specified in from 
+
+argv - a function that requires command line input to add arguments to script functions
+
+
+ex 14
+
+"""
+text
+"""
+- a string that is more like a paragraph
+\ - turns a functional character into a normal string
+
+ex 15
+
+open() loads file into shell for use in functions
+
+.read() - reads a variable loaded with an open text file, allowing that file to be printed or operated on
+
+
+ex 16
+
+.truncate() - truncates the file in question at the end of the current line
+.write() - writes the arguments to the referenced file
+
+ex 17
+
+from os.path - another library
+exists - a function from os.path that checks for existence 
+len() - gives length of argument string
+
+ex18
+
+def - defines a function that can be used later
+ 
+ ex 19
+ 
+ .seek(0) goes back in a file to the beginning
+ 
+ =+ increments forward by the specified amount
+ 
+ 
